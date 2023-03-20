@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lzzzzhao
-- 👀 I’m interested in face recognition with temperature recording
-- 🌱 I’m currently learning C, C# and ASP.Net
+- 👀 I’m interested in Oracle NetSuite and ERP solution
+- 🌱 I’m currently learning Oracle NetSuite
 
 <!---
 lzzzzhao/lzzzzhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
